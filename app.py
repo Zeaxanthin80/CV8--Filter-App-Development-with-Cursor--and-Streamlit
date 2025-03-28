@@ -252,7 +252,7 @@ def main():
         div[data-testid="stVerticalBlock"] {
             gap: 0 !important;
             padding: 10px;
-        }
+        }https://github.com/Zeaxanthin80/HCI-Application/blob/708c5551719fe03969fe58a81cddf39da8fd166b/Applications/06_02_Web_game.ipynb
         h1 {
             color: #4CAF50;  /* Change title color */
             text-align: center;  /* Center the title */
